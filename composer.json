@@ -1,0 +1,16 @@
+{
+    "name": "mrsaurabh009/php-login-system",
+    "description": "A secure and responsive user registration and login system built with PHP and MySQL",
+    "type": "project",
+    "keywords": ["php", "mysql", "authentication", "login", "registration", "security"],
+    "authors": [
+        {
+            "name": "Saurabh Kumar",
+            "email": "mrsaurabh009@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "MIT"
+}

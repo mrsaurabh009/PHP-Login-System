@@ -1,9 +1,10 @@
 <?php
 // Database configuration
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'user_auth_system');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+// For InfinityFree hosting, update these with your database details from the control panel
+define('DB_HOST', 'localhost');  // Change to your InfinityFree MySQL host (e.g., 'sql123.infinityfree.com')
+define('DB_NAME', 'user_auth_system');  // Change to your InfinityFree database name (e.g., 'if0_12345678_userauth')
+define('DB_USER', 'root');  // Change to your InfinityFree database username (e.g., 'if0_12345678')
+define('DB_PASS', '');  // Add your InfinityFree database password
 
 // Create PDO connection
 function getDBConnection() {

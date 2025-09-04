@@ -1,0 +1,44 @@
+📁 Files to Upload to InfinityFree htdocs Directory:
+
+REQUIRED FILES (Upload to root /htdocs/ folder):
+✅ index.php           - Homepage/landing page
+✅ login.php           - User login page
+✅ register.php        - User registration page  
+✅ dashboard.php       - User dashboard (protected page)
+✅ logout.php          - Logout functionality
+✅ config.php          - Database configuration (UPDATE WITH YOUR DB CREDENTIALS)
+✅ styles.css          - Responsive CSS styling
+✅ database.sql        - Database schema (import via phpMyAdmin)
+
+OPTIONAL FILES (Not needed for deployment but good to have):
+📄 README.md           - Project documentation
+📄 LICENSE             - MIT license file
+📄 .gitignore          - Git ignore rules
+📄 composer.json       - PHP project metadata
+📄 .env.example        - Environment variable example
+
+DEPLOYMENT FILES (For reference):
+📄 DEPLOY_TO_INFINITYFREE.md  - Your specific deployment guide
+📄 DEPLOYMENT.md              - General deployment guide
+📄 config.production.php      - Production config template
+
+---
+
+IMPORTANT: After uploading, remember to:
+1. Create MySQL database in InfinityFree control panel
+2. Import database.sql via phpMyAdmin
+3. Update config.php with your database credentials
+4. Test the application at https://saurabh-php-auth.infinityfreeapp.com
+
+---
+
+File Structure on Server:
+/htdocs/
+├── index.php
+├── login.php
+├── register.php
+├── dashboard.php
+├── logout.php
+├── config.php (UPDATED WITH YOUR DB DETAILS)
+├── styles.css
+└── database.sql (for import reference)

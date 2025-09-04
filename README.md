@@ -7,7 +7,7 @@
 
 A professional, secure, and responsive user authentication system built with PHP and MySQL. This project demonstrates modern web development practices including secure authentication, responsive design, and clean code architecture.
 
-## 🌟 [Live Demo](https://your-demo-link.com) | [Portfolio](https://github.com/mrsaurabh009)
+## 🌟 [Live Demo](https://saurabh-php-auth.infinityfreeapp.com) | [Portfolio](https://github.com/mrsaurabh009)
 
 *Professional project showcasing full-stack PHP development skills*
 
@@ -222,7 +222,7 @@ This project was developed by **Saurabh Kumar** as a demonstration of full-stack
 ### Connect with me:
 - 💼 [LinkedIn](https://linkedin.com/in/mrsaurabh009)
 - 🐱 [GitHub](https://github.com/mrsaurabh009)
-- 📧 Email: mrsaurabh009@gmail.com
+- 📧 Email: dypu.saurabh11@gmail.com
 
 ---
 
